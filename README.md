@@ -13,8 +13,8 @@
 1. Website - https://www.lnp-bp.org/
 2. Telegram channel - https://t.me/lnp_bp
 3. LinkedIn - https://www.linkedin.com/company/lnp-bp
-4. Youtube channel - https://www.youtube.com/c/LNPBP
-5. Twitter - https://twitter.com/lnp_bp
+4. YouTube channel - https://www.youtube.com/c/LNPBP
+5. X/Twitter - https://x.com/lnp_bp
 6. Audio recordings of development calls - https://github.com/LNP-BP/devcalls
 7. Development calls agenda board - https://github.com/orgs/LNP-BP/projects/8
 8. Development calls Wiki - https://github.com/LNP-BP/devcalls/wiki/Devcalls
@@ -32,6 +32,6 @@
 1. Bitcoin Pro -  https://github.com/pandoracore/bitcoin-pro
 2. MyCitadel Wallet:
 * Repos - https://github.com/mycitadel
-* Twitter - https://twitter.com/mycitadel_io
+* X/Twitter - https://x.com/mycitadel_io
 * Telegram - https://t.me/mycitadel
 3. RGBex.io - https://rgbex.io/
